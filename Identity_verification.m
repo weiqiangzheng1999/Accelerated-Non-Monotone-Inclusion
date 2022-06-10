@@ -13,7 +13,7 @@ syms  x [1 3]
 syms  u [1 3]  
 syms  y [1 3]  
 
-%% Substitution $c(3)$ by definition
+%% Substitution $u(3)$ by definition
 u(3) = x(1) - y(2) + 1/(q+1)*(x0 - x(1)) - x(3);
 
 %% Constraints
